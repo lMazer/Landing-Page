@@ -6,10 +6,10 @@ Este repositório é uma **capa de portfólio**: documenta o que foi entregue, a
 
 ## Resumo
 
-| Projeto | Stack | Status | Site |
-|---------|-------|--------|------|
-| Luiggi Auto | Next.js 15, TypeScript, Tailwind, PostgreSQL, Docker | Produção | [luiggiauto.com.br](https://www.luiggiauto.com.br) |
-| Decod Sistemas | HTML5, CSS3, JavaScript (sem framework) | Produção | [decodsistemas.com.br](https://decodsistemas.com.br) |
+| Projeto | Stack | Status | Última alteração | Site |
+|---------|-------|--------|------------------|------|
+| Luiggi Auto | Next.js 15, TypeScript, Tailwind, PostgreSQL, Docker | Produção | 09/09/2026 | [luiggiauto.com.br](https://www.luiggiauto.com.br) |
+| Decod Sistemas | HTML5, CSS3, JavaScript (sem framework) | Produção | 28/05/2026 | [decodsistemas.com.br](https://decodsistemas.com.br) |
 
 ## Cases
 
@@ -30,6 +30,8 @@ Landing page administrável para o Grupo Luiggi (centro automotivo e guinchos), 
 ![Preview Decod Sistemas](docs/previews/decodsistemas.png)
 
 Site institucional multi-página para apresentar a empresa, o produto iCode+, serviços e canais de contato comercial.
+
+> Preview gerado a partir da versão no repositório GitHub. O site público ainda aguarda autorização do cliente para publicação desta versão.
 
 - **Stack:** HTML5, CSS3, JavaScript puro, assets locais (sem build / sem framework)
 - **Entrega:** home, produtos, serviços e contato, com CTA via WhatsApp

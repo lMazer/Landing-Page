@@ -11,6 +11,7 @@ Preencha e adicione uma linha na tabela **Resumo** do [README.md](../README.md):
 | Projeto | Nome comercial |
 | Stack | 3–5 tecnologias principais |
 | Status | Produção / Em evolução |
+| Última alteração | Data do último commit relevante (`DD/MM/AAAA`) |
 | Site | URL pública https |
 
 ## 2. Bloco de case
