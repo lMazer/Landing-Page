@@ -8,6 +8,7 @@ Este repositório é uma **capa de portfólio**: documenta stack, status, entreg
 
 | Projeto | Stack | Status | Última alteração | Site |
 |---------|-------|--------|------------------|------|
+| Bioelectric | HTML5, CSS3, JavaScript | Planejamento | 06/10/2026 | — |
 | Luiggi Auto | Next.js 15, TypeScript, Tailwind, PostgreSQL, Docker | Produção | 09/09/2026 | [luiggiauto.com.br](https://www.luiggiauto.com.br) |
 | Decod Sistemas | HTML5, CSS3, JavaScript (sem framework) | Produção | 28/05/2026 | [decodsistemas.com.br](https://decodsistemas.com.br) |
 | Sushi Taito | Next.js, TypeScript, Tailwind CSS, PostgreSQL | Em desenvolvimento | 05/10/2026 | [sushitaito.com.br](https://sushitaito.com.br) |
@@ -53,6 +54,18 @@ Modernização da presença digital do restaurante. A imagem à esquerda registr
 - **Destaques técnicos planejados:** persistência PostgreSQL, gestão de conteúdo pelo painel, backups próprios documentados
 - **Repositório:** `lMazer/lp-sushitaito.com.br` *(privado)*
 - **Site:** [https://sushitaito.com.br](https://sushitaito.com.br) *(versão atual; a modernização ainda não foi publicada)*
+
+### Bioelectric
+
+![Preview Bioelectric](docs/previews/bioelectric.png)
+
+Landing page para apresentar a locação de carros elétricos da Bioelectric, com modelos da frota, vantagens da locação e contato por WhatsApp.
+
+- **Stack:** HTML5, CSS3 e JavaScript puro
+- **Entrega:** página responsiva com apresentação da frota, benefícios, vídeos e chamadas para contato
+- **Destaques técnicos:** layout desktop e mobile, assets locais e galeria de seis vídeos
+- **Repositório:** `lMazer/lp-bioelectric.com.br` *(privado)*
+- **Site:** — *(sem URL; em planejamento)*
 
 ## Padrões que sigo
 
